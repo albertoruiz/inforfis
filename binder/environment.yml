@@ -1,0 +1,16 @@
+name: inforfis
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+  - mpmath
+  - uncertainties
+  - pint
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - ffmpeg
+ 
