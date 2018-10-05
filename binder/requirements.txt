@@ -7,4 +7,5 @@ uncertainties
 pint
 ipywidgets
 jupyter_contrib_nbextensions
+ffmpeg
 
