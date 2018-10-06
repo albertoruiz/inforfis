@@ -1,6 +1,7 @@
 name: inforfis
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python
   - numpy
