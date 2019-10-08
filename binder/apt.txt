@@ -1,3 +1,4 @@
+fonts-humor-sans
 texlive-latex-base
 texlive-latex-recommended
 texlive-generic-recommended
