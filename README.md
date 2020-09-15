@@ -5,11 +5,9 @@
 
 Profesor: [Alberto Ruiz García][yo] (parte I)
 
-[Calendario](https://www.um.es/documents/14152/13804090/1Primero-C1+curso2019-20.pdf)
+[Apuntes](notebooks/INDEX.ipynb)
 
-[Apuntes](notebooks/index.ipynb)
-
-[online](https://mybinder.org/v2/gh/albertoruiz/inforfis/master?filepath=notebooks/index.ipynb)
+[online](https://mybinder.org/v2/gh/albertoruiz/inforfis/master?filepath=notebooks/INDEX.ipynb)
 
 [yo]: http://dis.um.es/profesores/alberto
 [fis]: http://www.um.es/web/quimica/contenido/estudios/grados/fisica
