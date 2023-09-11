@@ -2,6 +2,8 @@
 jupyterlite-core==0.1.1
 jupyterlab~=3.5.1
 
+jupyterlab-filesystem-access
+
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.0.10
 
