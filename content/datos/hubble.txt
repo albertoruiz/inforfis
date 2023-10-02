@@ -1,6 +1,7 @@
 # https://ned.ipac.caltech.edu/cgi-bin/objsearch?refcode=1996AJ....112.2398H&search_type=Search&of=pre_text
-# V(km/s) Redshift Magnitud
-# v        z       m
+
+V(km/s) Redshift Magnitud
+
 18287  0.060998  17.62
 5691   0.018983  15.00 
 26382  0.088000  18.59  
