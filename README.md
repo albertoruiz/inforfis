@@ -5,7 +5,8 @@
 
 Profesor: [Alberto Ruiz García][yo] (parte I)
 
-[Apuntes](notebooks/INDEX.ipynb)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://aruiz.org/inforfis)
+
 
 [yo]: http://dis.um.es/profesores/alberto
 [fis]: http://www.um.es/web/quimica/contenido/estudios/grados/fisica
